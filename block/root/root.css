@@ -1,0 +1,10 @@
+.root {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #1657A4;
+    font-family: 'Inter', Arial, sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+  }
